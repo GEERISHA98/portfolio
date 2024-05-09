@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Geerisha Jain
+Geerisha Jain
+Machine Learning Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+geerishj@andrew.cmu.edu
 
 Phone
-+1 (213) 352-2795
++1 (412) 390-5562
 
 Birthday
-June 23, 1982
+Aug 08, 1998
 
 Location
-Sacramento, California, USA
+Pittsburgh, PA, USA
 
 # navbar
 
@@ -93,17 +93,13 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
+Carnegie Mellon University
+2023 — 2025
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
+Vellore Institute of Technology
 2006 — 2007
 Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
 
